@@ -4,7 +4,7 @@
 
 ## 📥 最新版
 
-**v4.2.17（versionCode 96）** · arm64 · Android 11+
+**v4.2.17（versionCode 96）** · arm64 · Android 8+（沉浸式需 Android 11+）
 
 **https://github.com/Sideroca/SpeedTrans-downloads/releases/latest/download/SpeedTrans.apk**
 
